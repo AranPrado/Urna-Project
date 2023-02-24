@@ -22,28 +22,6 @@ let etapas = [
         ]
     },
     {
-        titulo: 'SENADOR',
-        numeros: 3,
-        candidatos: [
-            {
-                numero: '874',
-                nome: 'Fulano de Tal',
-                partido: 'XYZ',
-                fotos:[
-                    {url:'38111.jpg', legenda: 'Senador'}
-                ]
-            },
-            {
-                numero: '587',
-                nome: 'Beltrano da Silva',
-                partido: 'UIO',
-                fotos:[
-                    {url:'77222.jpg', legenda: 'Senador'}
-                ]
-            },
-        ]
-    },
-    {
         titulo: 'PREFEITO',
         numeros: 2,
         candidatos: [
